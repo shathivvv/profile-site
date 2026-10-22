@@ -29,9 +29,9 @@
         [
             'name' => 'Shathivel A/L Hari Rama Krishnan',
             'initials' => 'SH',
-            'background' => 'Add a short introduction, course and study year.',
-            'skills' => 'Add a few technical or personal skills.',
-            'interests' => 'Add your hobbies and interests.',
+            'background' => 'Final-year Computer Science student specializing in Computer Systems and Networking at Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA). Passionate about software development, full-stack applications, and exploring AI technologies.',
+            'skills' => 'JavaScript, Python, HTML, CSS, React, MySQL, PostgreSQL, Git, GitHub, problem-solving, teamwork, leadership, and communication.',
+            'interests' => 'Full-stack development, artificial intelligence, building innovative software projects, fitness, reading, and personal development.',
         ],
     ];
 @endphp
